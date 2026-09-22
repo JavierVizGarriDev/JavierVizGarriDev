@@ -1,21 +1,23 @@
-# ¡Hola! Soy Javier A. Vizcaino Garriga 👋
+# Hi, I'm Javier A. Vizcaino Garriga 👋
 
-### Estudiante autodidacta · Python · Git · Varadero, Cuba
+### Self-taught student · Python · Git · Varadero, Cuba
+
+> 🇬🇧 English · 🇪🇸 [Versión en español](README.es.md)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-- 🎓 Estudiante autodidacta siguiendo el **OSSU** (Open Source Society University).
-- 🐍 **Python** a nivel intermedio. Manejo **Git** con soltura.
+- 🎓 Self-taught student following the **OSSU** (Open Source Society University).
+- 🐍 **Python** at intermediate level. Comfortable with **Git**.
 - 📍 Varadero, Cuba.
-- 🚀 Documentando mi aprendizaje y construyendo proyectos personales.
-- 🎯 Meta: usar GitHub como carta de presentación para mi futuro profesional.
-- ✅ **Disponible** para oportunidades y colaboraciones.
+- 🚀 Documenting my learning journey and building personal projects.
+- 🎯 Goal: use GitHub as my professional portfolio.
+- ✅ **Open to opportunities** and collaborations.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -23,31 +25,31 @@
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Currently learning
 
-- Siguiendo el currículo del **OSSU** (Computer Science autodidacta).
-- Profundizando en **Python** y buenas prácticas de programación.
-- Mejorando mi flujo de trabajo con **Git y GitHub**.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de Javier](https://github-stats-extended.vercel.app/api?username=JavierVizGarriDev&show_icons=true&theme=default&hide_border=true&locale=es)
-
-![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=JavierVizGarriDev&layout=compact&theme=default&hide_border=true&locale=es)
+- Following the **OSSU** curriculum (self-taught Computer Science).
+- Deepening my **Python** skills and programming best practices.
+- Improving my workflow with **Git & GitHub**.
 
 ---
 
-## 📂 Proyectos
+## 📊 GitHub Stats
 
-Aquí iré publicando mis proyectos a medida que avance. Por ahora:
+![Javier's Stats](https://github-stats-extended.vercel.app/api?username=JavierVizGarriDev&show_icons=true&theme=default&hide_border=true&locale=en)
 
-- 🔧 **En construcción** — Próximamente subiré mis primeros proyectos personales.
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JavierVizGarriDev&layout=compact&theme=default&hide_border=true&locale=en)
 
 ---
 
-## 📫 Contacto
+## 📂 Projects
+
+I'll be publishing my projects here as I progress. For now:
+
+- 🔧 **Work in progress** — Personal projects coming soon.
+
+---
+
+## 📫 Contact
 
 - 📧 Email: [javieralejandrovizcainogarriga@gmail.com](mailto:javieralejandrovizcainogarriga@gmail.com)
 
