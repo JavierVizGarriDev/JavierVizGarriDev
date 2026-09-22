@@ -33,9 +33,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierVizGarriDev&show_icons=true&theme=default&hide_border=true&locale=es)
+![Estadísticas de Javier](https://github-stats-extended.vercel.app/api?username=JavierVizGarriDev&show_icons=true&theme=default&hide_border=true&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierVizGarriDev&layout=compact&theme=default&hide_border=true&locale=es)
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=JavierVizGarriDev&layout=compact&theme=default&hide_border=true&locale=es)
 
 ---
 
