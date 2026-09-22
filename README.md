@@ -1,16 +1,54 @@
-## Hi there 👋
+# ¡Hola! Soy Javier A. Vizcaino Garriga 👋
 
-<!--
-**JavierVizGarriDev/JavierVizGarriDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante autodidacta · Python · Git · Varadero, Cuba
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante autodidacta siguiendo el **OSSU** (Open Source Society University).
+- 🐍 **Python** a nivel intermedio. Manejo **Git** con soltura.
+- 📍 Varadero, Cuba.
+- 🚀 Documentando mi aprendizaje y construyendo proyectos personales.
+- 🎯 Meta: usar GitHub como carta de presentación para mi futuro profesional.
+- ✅ **Disponible** para oportunidades y colaboraciones.
+
+---
+
+## 🛠️ Tecnologías
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Siguiendo el currículo del **OSSU** (Computer Science autodidacta).
+- Profundizando en **Python** y buenas prácticas de programación.
+- Mejorando mi flujo de trabajo con **Git y GitHub**.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=<<TU_USERNAME>>&show_icons=true&theme=default&hide_border=true&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=<<TU_USERNAME>>&layout=compact&theme=default&hide_border=true&locale=es)
+
+---
+
+## 📂 Proyectos
+
+Aquí iré publicando mis proyectos a medida que avance. Por ahora:
+
+- 🔧 **En construcción** — Próximamente subiré mis primeros proyectos personales.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: [javieralejandrovizcainogarriga@gmail.com](mailto:javieralejandrovizcainogarriga@gmail.com)
+
+---
