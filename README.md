@@ -43,9 +43,7 @@
 
 ## 📂 Projects
 
-I'll be publishing my projects here as I progress. For now:
-
-- 🔧 **Work in progress** — Personal projects coming soon.
+- [wifi-file-transfer](https://github.com/JavierVizGarriDev/wifi-file-transfer) — Lightweight Flask server to transfer files between a PC and mobile devices over local WiFi. No internet, no USB cable required. Includes QR code auto-generation, multi-file upload, and a standalone `.exe`.
 
 ---
 
