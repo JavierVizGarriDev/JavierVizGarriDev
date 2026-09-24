@@ -43,9 +43,7 @@
 
 ## 📂 Proyectos
 
-Aquí iré publicando mis proyectos a medida que avance. Por ahora:
-
-- 🔧 **En construcción** — Próximamente subiré mis primeros proyectos personales.
+- [wifi-file-transfer](https://github.com/JavierVizGarriDev/wifi-file-transfer) — Servidor Flask ligero para transferir archivos entre una PC y dispositivos móviles por WiFi local. Sin internet ni cable USB. Incluye generación automática de QR, subida de múltiples archivos y un `.exe` autónomo.
 
 ---
 
